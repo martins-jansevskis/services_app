@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google map</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_github">Github repo</string>
+    <string name="repo_name_label">Repository Name  :</string>
+    <string name="repo_owner_label">Repository Owner:</string>
+</resources>
