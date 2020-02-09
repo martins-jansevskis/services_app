@@ -1,6 +1,7 @@
 {
   "summary": {
-    "title": "example"
+    "title": "example",
+    "description": "Example app"
   },
   "detail": {
     "contributors": [],
